@@ -5,7 +5,6 @@ By F.B. Avila Rencoret, MD & ChatGPT (code interpreter 27-07-23)
 
 In the spirit of Tony Stark's garage innovation, we present a DIY guide for the theoretical prediction and experimental synthesis of high-temperature superconductors. Our approach leverages the principles of quantum mechanics, condensed matter physics, and material science, providing a roadmap for designing your very own "Iron Man's Heart". 
 
-==================================================================
 In this journey, we are indeed "standing on the shoulders of giants". We want to acknowledge the pioneering team behind the groundbreaking LK-99 research. Their remarkable efforts, in the face of many challenges, have painted a tantalizing picture of the future of superconductivity. Even if their proposals have not yet been fully validated, they have reinvigorated the field and sparked a new wave of scientific exploration. We dedicate this work to them, and to all the scientists tirelessly pushing the boundaries of knowledge, often against great odds. Amidst the turmoil of our times - climate change, war, and beyond - such pursuits illuminate a path towards a brighter, more hopeful future.
 ==================================================================
 
