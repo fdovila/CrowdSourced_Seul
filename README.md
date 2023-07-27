@@ -8,9 +8,8 @@ Inspired by the idea of building superconductors in your garage, just like Stark
 ## Theoretical Framework
 We construct a comprehensive Hamiltonian incorporating electronic, phononic, and interaction components:
 
-```latex
+
 H = H_{\text{el}} + H_{\text{ph}} + H_{\text{int}}
-```
 
 Computational Exploration of Material Synthesis
 -----------------------------------------------
@@ -31,19 +30,15 @@ Our combined theoretical and computational framework provides a roadmap for unde
 
 We start with a Hamiltonian of the form:
 
-```latex
+
 H = H_{\text{el}} + H_{\text{ph}} + H_{\text{int}},
-```
 
 where
 
-latex
-
-```latex
 H_{\text{el}} = \sum_{ij\sigma} t_{ij}(d) c^{\dagger}_{i\sigma} c_{j\sigma},
 H_{\text{ph}} = \sum_{q} \hbar\omega_{q} (b^{\dagger}_{q} b_{q} + \frac{1}{2}),
 H_{\text{int}} = \sum_{ij} g_{ij} (c_{i\uparrow}^{\dagger} c_{j\downarrow}^{\dagger} + h.c.).
-```
+
 
 The electron-phonon spectral function α2F(ω)\\alpha^2F(\\omega)α2F(ω) is computed from first principles using density functional perturbation theory (DFPT), which gives us the electron-phonon matrix elements and phonon frequencies.
 
@@ -53,11 +48,8 @@ The superconducting critical temperature TcT\_cTc​ is determined from the cond
 
 The Ginzburg-Landau free energy functional is given by:
 
-latex
-
-```latex
 F[\psi] = \alpha(T-T_c) |\psi|^2 + \beta |\psi|^4 + \sum_{i} |\nabla\psi_i|^2,
-```
+
 
 where α\\alphaα and β\\betaβ are phenomenological parameters.
 
