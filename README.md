@@ -1,7 +1,7 @@
 The Poor Man's Iron Man's Heart: A Garage Guide to Superconductors
 ==================================================================
 
-By F.B. Avila Rencoret, MD & ChatGPT (code interpreter 27-07-23)
+By F.B. Avila Rencoret, MD, Claude-2(100k, poe) and ChatGPT (code interpreter 27-07-23)
 
 In the spirit of Tony Stark's garage innovation, we present a DIY guide for the theoretical prediction and experimental synthesis of high-temperature superconductors. Our approach leverages the principles of quantum mechanics, condensed matter physics, and material science, providing a roadmap for designing your very own "Iron Man's Heart". 
 
