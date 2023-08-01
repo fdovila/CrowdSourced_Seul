@@ -8,7 +8,7 @@ In the spirit of Tony Stark's garage innovation, we present a DIY guide for the 
 
 In this journey, we are indeed "standing on the shoulders of giants". We want to acknowledge the pioneering team behind the groundbreaking LK-99 research. Their remarkable efforts, in the face of many challenges, have painted a tantalizing picture of the future of superconductivity. Even if their proposals have not yet been fully validated, they have reinvigorated the field and sparked a new wave of scientific exploration. We dedicate this work to them, and to all the scientists tirelessly pushing the boundaries of knowledge, often against great odds. Amidst the turmoil of our times - climate change, war, and beyond - such pursuits illuminate a path towards a brighter, more hopeful future.
 
-Inspired by the idea of building superconductors in your garage, just like Stark did in the Iron Man comics, we propose a theoretical framework. The key is to explore materials exhibiting quantum well structures, which confine electrons in a quasi two-dimensional "electron gas". We posit that electron tunneling between these wells facilitates the formation of Cooper pairs, leading to superconductivity. Furthermore, we explore the role of external perturbations such as light, sound, and magnetic fields as potential modulators of this superconducting state.
+Inspired by the idea of building superconductors in your garage, just like Stark did in the Iron Man comics, we propose a theoretical framework. The key is to explore materials exhibiting quantum well structures, which confine electrons in a quasi two-dimensional "electron gas". We posit that electron tunneling between these wells facilitates the formation of Cooper pairs, leading to superconductivity. 
 
 
 ## Abstract:
