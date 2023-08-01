@@ -2,6 +2,7 @@
 The Poor Man's Iron Man's Heart: A Garage Guide to Superconductors
 ==================================================================
 
+
 By F.B. Avila Rencoret, MD, Claude-2(100k, poe) and ChatGPT (code interpreter 27-07-23)
 
 In the spirit of Tony Stark's garage innovation, we present a DIY guide for the theoretical prediction and experimental synthesis of high-temperature superconductors. Our approach leverages the principles of quantum mechanics, condensed matter physics, and material science, providing a roadmap for designing your very own "Iron Man's Heart". 
@@ -29,6 +30,13 @@ Inserting the quantum well density of states and α2F(ω) into the Eliashberg eq
 ## BCS Estimate:
 Alternatively, application of the BCS formula results in an unrealistically high electron-phonon coupling value of 6.4 to align with the experimental Tc, further underlining the limitations of simplified BCS models.
 
+## KEY CALCULATIONS
+![Screenshot 2023-08-01 210557](https://github.com/fdovila/CrowdSourced_Seul/assets/769443/65904366-7dd3-4811-ae39-1376b8430cf5)
+![Screenshot 2023-08-01 210609](https://github.com/fdovila/CrowdSourced_Seul/assets/769443/47f1dcb5-912c-4833-b42b-4b98ff5d1e59)
+![Screenshot 2023-08-01 210620](https://github.com/fdovila/CrowdSourced_Seul/assets/769443/6c459dce-e8fc-47ac-9b90-f6a74f55210d)
+![Screenshot 2023-08-01 210644](https://github.com/fdovila/CrowdSourced_Seul/assets/769443/38e3e663-dff1-4e44-8e8b-bd546d5c0d26)
+![Screenshot 2023-08-01 210652](https://github.com/fdovila/CrowdSourced_Seul/assets/769443/0de57088-cdee-4289-8ed6-7797bc4a7737)
+![Screenshot 2023-08-01 210704](https://github.com/fdovila/CrowdSourced_Seul/assets/769443/3f4dbe12-8c17-411f-bbdf-1e510094d9ef)
 ## Discussion:
 Our results underscore the inability of traditional Migdal-Eliashberg and BCS theories to fully encompass the complex physics inherent in high-temperature superconductors like LK-99. More sophisticated computational methods incorporating strong correlations, spin fluctuations, vertex corrections, and multi-scale techniques might be essential for a quantitative prediction of Tc. Further experimental characterization and first-principles modeling are needed to unveil the microscopic origins of superconductivity in this material.
 
